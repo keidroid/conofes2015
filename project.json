@@ -1,0 +1,22 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 0,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+
+    "modules" : ["cocos2d"],
+
+    "jsList" : [
+        "src/resource.js",
+        "src/notice.js",
+        "src/howto.js",
+        "src/title.js",
+        "src/score.js",
+        "src/live.js",
+        "src/sorry.js",
+	"src/result.js"
+    ]
+}
